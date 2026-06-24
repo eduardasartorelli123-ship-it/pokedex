@@ -5,3 +5,7 @@ git config --global user.email eduarda.sartorelli123@gmail.com
 npx create-expo-app@latest pokedex
 
 npm i
+
+npx expo start
+
+npm i @expo/vector-icons
